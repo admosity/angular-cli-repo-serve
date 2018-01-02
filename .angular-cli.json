@@ -11,6 +11,8 @@
         "assets",
         "favicon.ico"
       ],
+      "baseHref": "/test/",
+      "deployUrl": "/test/",
       "index": "index.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
